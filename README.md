@@ -3,7 +3,7 @@ Simple python script that monitors a webpage for changes.
 
 ## Usage
 
-`git clone https://github.com/Fantop/pageWatch.git` or download and extract the zip.
+`git clone https://github.com/heyseth/pageWatch.git` or download and extract the zip.
 
 `cd pageWatch`
 
